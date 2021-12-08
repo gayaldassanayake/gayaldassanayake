@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
 
 <a href="https://github.com/gayaldassanayake">
