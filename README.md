@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
-[!LinkedIn(https://img.shields.io/badge/Visit-Portfolio-blue)](https://www.linkedin.com/in/gayal-dassanayake)
+[![LinkedIn](https://img.shields.io/badge/Visit-Portfolio-blue)](https://www.linkedin.com/in/gayal-dassanayake)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blueviolet)](http://kdsuneraavinash.me/)
 
 I am Gayal Dassanayake. Check my [LinkedIn](https://www.linkedin.com/in/gayal-dassanayake) profile to get to know about me.
 
