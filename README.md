@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Gayal Dassanayake. Check my [LinkedIn](https://www.linkedin.com/in/gayal-dassanayake) profile to get to know about me.
 ![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
 
 <a href="https://github.com/gayaldassanayake">
