@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
+
+<a href="https://github.com/gayaldassanayake">
+  <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=gayaldassanayake&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true" />
+</a>
+<a href="https://github.com/gayaldassanayake">
+  <img alt="Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayaldassanayake&include_all_commits=true&langs_count=9&layout=compact&hide=CSS,PHP" />
+</a>
 <!--
 **gayaldassanayake/gayaldassanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
