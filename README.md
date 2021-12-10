@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
 
-I am Gayal Dassanayake. Check my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayal-dassanayake) profile to get to know about me.
+I am Gayal Dassanayake. Check my [LinkedIn](https://www.linkedin.com/in/gayal-dassanayake) profile to get to know about me.
 
 <a href="https://github.com/gayaldassanayake">
   <img alt="Profile" align="center" src="https://github-readme-stats.vercel.app/api?username=gayaldassanayake&count_private=true&show_icons=true&custom_title=My%20Github%20Statistics&include_all_commits=true" />
