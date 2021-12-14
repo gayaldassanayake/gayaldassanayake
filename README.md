@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Gayal Here 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
 
