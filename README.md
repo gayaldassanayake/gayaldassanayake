@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gayaldassanayake&color=brightgreen)
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_public/gayaldassanayake.svg)](https://user-badge.committers.top/sri_lanka_public/gayaldassanayake)
+
 I am Gayal Dassanayake. Check my [LinkedIn](https://www.linkedin.com/in/gayal-dassanayake) profile to get to know about me.
 
 <a href="https://github.com/gayaldassanayake">
